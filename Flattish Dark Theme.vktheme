@@ -3,7 +3,7 @@
 //
 $black: #000
 $white: #fff
-$dark: #999999
+$dark: #19191A
 $bg: #19191A
 $accent_blue: #999999 //#70A7F0
 $accent_blue_link: #999999
@@ -17,9 +17,9 @@ $text_blue: #828282 // FIXME #4986CC
 $icon_red: #E64646
 $steel_gray_300: #9ba2ac // ???
 // 269 - select message
-$text_field_base: #202020
+$text_field_base: #303030
 // $text_field is 20% of $text_field_base
-$text_field: #202020
+$text_field: #303030
 $border: #303030 // same as text_field (20% of base)
 
 $placeholder: #999999 // 40% of #deeeff
